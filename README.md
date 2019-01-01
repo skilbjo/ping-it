@@ -1,9 +1,9 @@
 # ping-it
 
 ## Last updated
-2018-12-31
+2019-01-01
 
-Incremented: 324
+Incremented: 325
 
 ## What is this??
 Hack the github visualization chart.
